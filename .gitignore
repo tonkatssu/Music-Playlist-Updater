@@ -1,0 +1,4 @@
+headers_auth.json
+playlist_state.json
+__pycache__/
+*.pyc
