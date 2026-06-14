@@ -1,4 +1,9 @@
+# Auth & state files - keep these private, never commit
 headers_auth.json
 playlist_state.json
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+.env
